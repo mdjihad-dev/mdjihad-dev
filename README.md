@@ -1,239 +1,197 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=MD%20JAHIDUL%20ISLAM%20JIHAD&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
-</div>
+<!--
+════════════════════════════════════════════════════════════════════════
+  MD JIHAD — GitHub Profile README
+  Setup: Find & Replace "YOUR_USERNAME" with your real GitHub username.
+         Then replace the social links in the "Connect" section.
+════════════════════════════════════════════════════════════════════════
+-->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=🚀+Frontend+Developer;💎+From+Bangladesh;✨+JavaScript+Enthusiast;🌟+Building+Amazing+Websites!" alt="Typing SVG" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,45:2C5364,100:00D9FF&height=230&section=header&text=MD%20JIHAD&fontSize=72&fontColor=ffffff&fontAlignY=34&animation=fadeIn&desc=Full-Stack%20Developer%20%C2%B7%20Product%20Builder%20%C2%B7%20Founder%20of%20SkillBridge&descAlignY=54&descSize=17" width="100%" />
+
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1100&color=00D9FF&center=true&vCenter=true&width=760&height=45&lines=Building+SkillBridge+%E2%80%94+Skills+%26+Opportunities+BD;Full-Stack+Engineer+%7C+Node.js+%C2%B7+React+%C2%B7+MongoDB;I+turn+rough+ideas+into+production-grade+products;From+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9+to+the+world+%F0%9F%8C%8D" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile views" />
+<a href="https://github.com/YOUR_USERNAME?tab=followers">
+  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=00d9ff&labelColor=0D1117&logo=github" alt="Followers" />
+</a>
+<a href="https://github.com/YOUR_USERNAME?tab=repositories">
+  <img src="https://img.shields.io/badge/Based%20in-Bangladesh%20%F0%9F%87%A7%F0%9F%87%A9-0D1117?style=for-the-badge&labelColor=0D1117&color=00d9ff" alt="Location" />
+</a>
+<img src="https://img.shields.io/badge/Open%20to-Collaboration-0D1117?style=for-the-badge&labelColor=0D1117&color=22c55e" alt="Open to work" />
+
 </div>
 
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=mdjihad84&color=blueviolet&style=for-the-badge&label=Profile+Views)
-  [![GitHub followers](https://img.shields.io/github/followers/mdjihad84?label=Followers&style=for-the-badge&color=orange)](https://github.com/mdjihad84)
-  [![GitHub stars](https://img.shields.io/github/stars/mdjihad84?label=Stars&style=for-the-badge&color=yellow)](https://github.com/mdjihad84)
-  
-</div>
+<br/>
 
-<br>
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" />
 
-<div align="center">
-  <h2 style="border-bottom: 4px solid #FF6B6B; padding-bottom: 8px; color: #FF6B6B;">
-    🔥 About The Developer 🔥
-  </h2>
-</div>
+<h2 align="center">⚡ &nbsp;About Me</h2>
+
+<img align="right" width="330" src="https://raw.githubusercontent.com/gist/JoshuaKGoldberg/6a5060a8ba7e3d5a2b0b7dc1f4a3fe12/raw/coding.gif" alt="coding" />
 
 ```javascript
 const jihad = {
-    name: "MD Jahidul Islam Jihad",
-    title: "Frontend Developer",
-    location: "🇧🇩 Bangladesh",
-    email: "mdjahidulislam.jihad@gmail.com",
-    
-    currentWork: "Building responsive web applications",
-    learning: "Advanced JavaScript & Modern Frameworks",
-    
-    techStack: {
-        languages: ["JavaScript", "HTML5", "CSS3", "C++"],
-        frameworks: ["React", "Angular", "Bootstrap"],
-        tools: ["Git", "Docker", "AWS", "Firebase"],
-        databases: ["MongoDB", "MySQL", "PostgreSQL"]
-    },
-    
-    goals2024: [
-        "Master React.js ecosystem",
-        "Build 10+ stunning projects",
-        "Contribute to open source",
-        "Help fellow developers"
-    ],
-    
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
+  role      : "Full-Stack Developer & Founder",
+  location  : "Bangladesh 🇧🇩",
+  building  : ["SkillBridge", "POS Suite"],
+  mission   : "Build products that create real
+               skills, jobs & opportunity",
+  stack     : {
+    frontend : ["React", "Tailwind CSS", "JavaScript"],
+    backend  : ["Node.js", "Express", "REST APIs"],
+    database : ["MongoDB", "Mongoose"],
+    tooling  : ["Git", "JWT", "SSLCommerz", "Vercel"]
+  },
+  philosophy: "Ship it clean. Ship it scalable.",
+  funFact   : "Every product I build starts with
+               a problem I have lived through."
 };
-
-console.log("Welcome to Jihad's GitHub! 🎉");
 ```
 
-<br>
+<br clear="right"/>
+
+- 🚀 &nbsp;Currently building **[SkillBridge](https://github.com/YOUR_USERNAME)** — a nationwide platform for skills, jobs, business & community in Bangladesh.
+- 💳 &nbsp;Engineering a production-grade **POS System** with Node.js, MongoDB, JWT auth & SSLCommerz payments.
+- 🌱 &nbsp;Deep-diving into **system design, scalable architecture & clean code**.
+- 🤝 &nbsp;Open to **collaboration** on impactful open-source and product work.
+- 💬 &nbsp;Ask me about **Node.js · React · MongoDB · REST APIs · Product Building**.
+- ⚡ &nbsp;Motto: *"Don't just write code — build something people actually need."*
+
+<br/>
+
+<h2 align="center">🛠️ &nbsp;Tech Arsenal</h2>
 
 <div align="center">
-  <h2 style="color: #4ECDC4;">🛠️ My Tech Arsenal</h2>
-</div>
 
-<div align="center">
-  
-### Frontend Technologies
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+### &nbsp;Languages
 
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,python,cpp&theme=dark" />
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+### &nbsp;Frontend
 
-</div>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite,redux&theme=dark" />
 
-<br>
+### &nbsp;Backend &amp; Database
 
-<div align="center">
-  <h2 style="color: #FFEAA7;">📊 GitHub Analytics</h2>
-</div>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,postman&theme=dark" />
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mdjihad84&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdjihad84&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=ffffff"/>
-</div>
+### &nbsp;Tools &amp; Platforms
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdjihad84&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=4ECDC4&fire=FFEAA7&currStreakLabel=ffffff" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mdjihad84&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
-</div>
-
-<br>
-
-<div align="center">
-  <h2 style="color: #96CEB4;">🎯 Current Focus</h2>
-</div>
-
-<div align="center">
-  
-| 🔭 Working On | 🌱 Learning | 👯 Collaborating |
-|:---:|:---:|:---:|
-| **Web Development** | **Advanced JavaScript** | **Portfolio Projects** |
-| Modern UI/UX | React Ecosystem | Open Source |
-| Responsive Design | Cloud Technologies | Community Building |
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify,linux,docker&theme=dark" />
 
 </div>
 
-<br>
+<br/>
+
+<h2 align="center">🚀 &nbsp;Featured Projects</h2>
 
 <div align="center">
-  <h2 style="color: #FD79A8;">🌟 Featured Project</h2>
-</div>
 
-<div align="center">
-  <a href="https://car-doctor-website.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/🚗_Car_Doctor-Live_Demo-FF6B6B?style=for-the-badge&logo=netlify&logoColor=white" alt="Car Doctor Project"/>
-  </a>
-</div>
-
-<div align="center">
-  <p style="font-size: 18px; color: #74B9FF;">
-    🔥 A complete car service website with modern design and functionality!
-  </p>
-</div>
-
-<br>
-
-<div align="center">
-  <h2 style="color: #A29BFE;">🤝 Let's Connect</h2>
-</div>
-
-<div align="center">
-  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdjahidulislam.jihad@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-jahidul-islam-jihad)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/mdjahidulislam)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://fb.com/md.jahidul.islam.jihad)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/md.jahidul.islam.jihad)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/c/mdjahidulislamjihad)
+<a href="https://github.com/YOUR_USERNAME/skillbridge">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=skillbridge&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=00D9FF&border_color=1F2937&show_owner=true" />
+</a>
+<a href="https://github.com/YOUR_USERNAME/pos-system">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=pos-system&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=00D9FF&border_color=1F2937&show_owner=true" />
+</a>
 
 </div>
 
-<br>
+<br/>
+
+<table align="center">
+  <tr>
+    <th align="left">Project</th>
+    <th align="left">Description</th>
+    <th align="left">Stack</th>
+  </tr>
+  <tr>
+    <td><b>🌉 SkillBridge</b></td>
+    <td>A nationwide community platform for skill development, jobs, business &amp; marketplace — built to scale globally.</td>
+    <td><code>React</code> <code>Node.js</code> <code>MongoDB</code></td>
+  </tr>
+  <tr>
+    <td><b>💳 POS Suite</b></td>
+    <td>Full-featured Point of Sale system with role-based access, receipt printing, BDT billing &amp; online payments.</td>
+    <td><code>Express</code> <code>JWT</code> <code>SSLCommerz</code></td>
+  </tr>
+</table>
+
+<br/>
+
+<h2 align="center">📊 &nbsp;GitHub Analytics</h2>
 
 <div align="center">
-  <h2 style="color: #FF7675;">💡 Fun Facts About Me</h2>
-</div>
 
-<div align="center">
-  
-```
-🎯 Always proactive and ready for challenges
-☕ Coffee-powered coding sessions
-🚀 Passionate about clean, efficient code  
-🌟 Love helping fellow developers
-🎮 Gamer in free time
-📚 Continuous learner
-💭 "Code is poetry written in logic"
-```
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=00D9FF&border_color=1F2937&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&border_color=1F2937" />
 
-</div>
+<br/><br/>
 
-<br>
+<img width="72%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=8B949E&sideNums=C9D1D9&currStreakNum=FFFFFF&border=1F2937" />
 
-<div align="center">
-  <h2 style="color: #00B894;">📈 Contribution Graph</h2>
-</div>
+<br/><br/>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdjihad84&bg_color=0D1117&color=FF6B6B&line=4ECDC4&point=FFEAA7&area=true&hide_border=true" width="100%"/>
-</div>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF&hide_border=false&border_color=1F2937" />
 
-<br>
+<br/><br/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
-<br>
-
-<div align="center">
-  <h2 style="color: #6C5CE7;">🎵 Coding Playlist</h2>
-  
-  ```
-  🎧 Lo-fi Hip Hop Radio 🎵
-  🎶 Synthwave Vibes 🌆  
-  🎵 Epic Orchestral Mix 🎻
-  🎧 Chill Electronic Beats 🔮
-  ```
-</div>
-
-<br>
-
-<div align="center">
-  
-## 💝 Support My Work
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mdjihad84)
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/mdjihad84)
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
 
 </div>
 
-<br>
+<br/>
+
+<h2 align="center">🐍 &nbsp;Contribution Graph</h2>
 
 <div align="center">
-  
-## ✨ Inspirational Quote ✨
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" width="100%" />
+  </picture>
+</div>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote"/>
+<br/>
+
+<h2 align="center">🤝 &nbsp;Connect With Me</h2>
+
+<div align="center">
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://facebook.com/YOUR_FACEBOOK">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+<a href="mailto:YOUR_EMAIL@example.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://twitter.com/YOUR_TWITTER">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+<a href="https://YOUR_PORTFOLIO.com">
+  <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=black" />
+</a>
 
 </div>
 
-<br>
+<br/>
 
 <div align="center">
-  
-### 🌟 "Building the future, one line of code at a time" 🌟
 
-**Thanks for visiting my profile! Let's build something amazing together! 🚀**
+> ### *"First, solve the problem. Then, write the code."*
+> — John Johnson
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=mdjihad84.mdjihad84&left_color=crimson&right_color=blue&left_text=Visitors"/>
+<br/>
 
-</div>
+**⭐ If my work brings you value, a star means the world.**
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,55:2C5364,100:0F2027&height=150&section=footer" width="100%" />
+
 </div>

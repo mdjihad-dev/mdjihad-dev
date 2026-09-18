@@ -8,10 +8,10 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,45:2C5364,100:00D9FF&height=230&section=header&text=MD%20JIHAD&fontSize=72&fontColor=ffffff&fontAlignY=34&animation=fadeIn&desc=Frontend%20Developer%20%C2%B7%20Full-Stack%20Development%20%C2%B7%20Software%20Engineering&descAlignY=54&descSize=17" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,45:2C5364,100:00D9FF&height=230&section=header&text=MD%20JIHAD&fontSize=72&fontColor=ffffff&fontAlignY=34&animation=fadeIn&desc=Full-Stack%20Developer%20%C2%B7%20Product%20Builder%20%C2%B7%20Founder%20of%20SkillBridge&descAlignY=54&descSize=17" width="100%" />
 
 <a href="https://github.com/YOUR_USERNAME">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1100&color=00D9FF&center=true&vCenter=true&width=760&height=45&lines=Building+modern+web+experiences;Frontend+Developer+%7C+React+%C2%B7+Next.js+%C2%B7+Tailwind+CSS;Progressing+toward+Full-Stack+Development;From+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9+to+the+world+%F0%9F%8C%8D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1100&color=00D9FF&center=true&vCenter=true&width=760&height=45&lines=Building+SkillBridge+%E2%80%94+Skills+%26+Opportunities+BD;Full-Stack+Engineer+%7C+Node.js+%C2%B7+React+%C2%B7+MongoDB;I+turn+rough+ideas+into+production-grade+products;From+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9+to+the+world+%F0%9F%8C%8D" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -23,7 +23,7 @@
 <a href="https://github.com/YOUR_USERNAME?tab=repositories">
   <img src="https://img.shields.io/badge/Based%20in-Bangladesh%20%F0%9F%87%A7%F0%9F%87%A9-0D1117?style=for-the-badge&labelColor=0D1117&color=00d9ff" alt="Location" />
 </a>
-<img src="https://img.shields.io/badge/Open%20to-Collaboration-0D1117?style=for-the-badge&labelColor=0D1117&color=22c55e" alt="Open to collaboration" />
+<img src="https://img.shields.io/badge/Open%20to-Collaboration-0D1117?style=for-the-badge&labelColor=0D1117&color=22c55e" alt="Open to work" />
 
 </div>
 
@@ -33,36 +33,35 @@
 
 <h2 align="center">⚡ &nbsp;About Me</h2>
 
-<img align="right" width="330" src="https://raw.githubusercontent.com/gist/JoshuaKGoldberg/6a5060a8ba7e3d5a2b0b7dc1f4a3fe12/raw/coding.gif" alt="Coding illustration" />
+<img align="right" width="330" src="https://raw.githubusercontent.com/gist/JoshuaKGoldberg/6a5060a8ba7e3d5a2b0b7dc1f4a3fe12/raw/coding.gif" alt="coding" />
 
 ```javascript
 const jihad = {
-  role      : "Frontend Developer",
-  direction : "Full-Stack Development & Software Engineering",
+  role      : "Full-Stack Developer & Founder",
   location  : "Bangladesh 🇧🇩",
-  building  : ["Modern Web Projects", "Frontend Applications"],
+  building  : ["SkillBridge", "POS Suite"],
+  mission   : "Build products that create real
+               skills, jobs & opportunity",
   stack     : {
-    frontend : ["HTML5", "CSS3", "Tailwind CSS", "JavaScript", "React", "Next.js"],
-    tools    : ["Git", "GitHub", "VS Code", "Figma"]
+    frontend : ["React", "Tailwind CSS", "JavaScript"],
+    backend  : ["Node.js", "Express", "REST APIs"],
+    database : ["MongoDB", "Mongoose"],
+    tooling  : ["Git", "JWT", "SSLCommerz", "Vercel"]
   },
-  focus     : [
-    "Responsive Web Design",
-    "Modern UI Development",
-    "Component-Based Architecture",
-    "REST API Integration"
-  ],
-  mission   : "Build clean, maintainable and scalable web experiences."
+  philosophy: "Ship it clean. Ship it scalable.",
+  funFact   : "Every product I build starts with
+               a problem I have lived through."
 };
 ```
 
 <br clear="right"/>
 
-* 🚀  Currently building **modern, responsive web experiences** with React, Next.js and Tailwind CSS.
-* 🎨  Focused on **frontend development, UI quality, responsive design and component-based architecture**.
-* ⚡  Working with **HTML5 · CSS3 · Tailwind CSS · JavaScript · React · Next.js**.
-* 🧩  Strengthening practical skills through **real-world projects and continuous development**.
-* 🌱  Progressing toward **backend development, databases and broader software engineering**.
-* 🤝  Open to **collaboration** on meaningful open-source and web development projects.
+- 🚀 &nbsp;Currently building **[SkillBridge](https://github.com/YOUR_USERNAME)** — a nationwide platform for skills, jobs, business & community in Bangladesh.
+- 💳 &nbsp;Engineering a production-grade **POS System** with Node.js, MongoDB, JWT auth & SSLCommerz payments.
+- 🌱 &nbsp;Deep-diving into **system design, scalable architecture & clean code**.
+- 🤝 &nbsp;Open to **collaboration** on impactful open-source and product work.
+- 💬 &nbsp;Ask me about **Node.js · React · MongoDB · REST APIs · Product Building**.
+- ⚡ &nbsp;Motto: *"Don't just write code — build something people actually need."*
 
 <br/>
 
@@ -70,67 +69,21 @@ const jihad = {
 
 <div align="center">
 
-###  Frontend
+### &nbsp;Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,python,cpp&theme=dark" />
 
-###  Development Tools
+### &nbsp;Frontend
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite,redux&theme=dark" />
 
-###  Frontend Capabilities
+### &nbsp;Backend &amp; Database
 
-<table align="center">
-  <tr>
-    <td align="center">Responsive Web Design</td>
-    <td align="center">Modern UI Development</td>
-    <td align="center">Component-Based Architecture</td>
-  </tr>
-  <tr>
-    <td align="center">REST API Integration</td>
-    <td align="center">Deployment</td>
-    <td align="center">Web Performance</td>
-  </tr>
-  <tr>
-    <td align="center">Accessibility Fundamentals</td>
-    <td align="center">SEO Fundamentals</td>
-    <td align="center">Modern React Development</td>
-  </tr>
-</table>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,postman&theme=dark" />
 
-</div>
+### &nbsp;Tools &amp; Platforms
 
-<br/>
-
-<h2 align="center">🧭 &nbsp;Engineering Roadmap</h2>
-
-<div align="center">
-
-### 01 — Frontend Development
-
-**HTML5 → CSS3 → Tailwind CSS → JavaScript → React → Next.js**
-
-### 02 — Full-Stack Development
-
-**Node.js → Express.js → REST APIs → Authentication → Backend Architecture**
-
-### 03 — Database Engineering
-
-**MongoDB → PostgreSQL → Data Modeling → Database Design → Optimization**
-
-### 04 — Software Engineering
-
-**TypeScript → DSA → OOP → Clean Code → SOLID → Design Patterns → Testing**
-
-### 05 — Advanced Engineering
-
-**System Design → Scalable Architecture → Docker → CI/CD → Cloud → Distributed Systems**
-
-<br/>
-
-> **Current:** Frontend Development
-> **Next:** Backend & Database Development
-> **Future:** Software Engineering & Scalable Systems
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify,linux,docker&theme=dark" />
 
 </div>
 
@@ -140,11 +93,11 @@ const jihad = {
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_PROJECT_1&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=00D9FF&border_color=1F2937&show_owner=true" />
+<a href="https://github.com/YOUR_USERNAME/skillbridge">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=skillbridge&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=00D9FF&border_color=1F2937&show_owner=true" />
 </a>
-<a href="https://github.com/YOUR_USERNAME">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_PROJECT_2&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=00D9FF&border_color=1F2937&show_owner=true" />
+<a href="https://github.com/YOUR_USERNAME/pos-system">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=pos-system&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=00D9FF&border_color=1F2937&show_owner=true" />
 </a>
 
 </div>
@@ -158,14 +111,14 @@ const jihad = {
     <th align="left">Stack</th>
   </tr>
   <tr>
-    <td><b>Project 01</b></td>
-    <td>Replace with an accurate description of your project.</td>
-    <td><code>React</code> <code>Tailwind CSS</code></td>
+    <td><b>🌉 SkillBridge</b></td>
+    <td>A nationwide community platform for skill development, jobs, business &amp; marketplace — built to scale globally.</td>
+    <td><code>React</code> <code>Node.js</code> <code>MongoDB</code></td>
   </tr>
   <tr>
-    <td><b>Project 02</b></td>
-    <td>Replace with an accurate description of your project.</td>
-    <td><code>Next.js</code> <code>JavaScript</code></td>
+    <td><b>💳 POS Suite</b></td>
+    <td>Full-featured Point of Sale system with role-based access, receipt printing, BDT billing &amp; online payments.</td>
+    <td><code>Express</code> <code>JWT</code> <code>SSLCommerz</code></td>
   </tr>
 </table>
 
@@ -211,19 +164,19 @@ const jihad = {
 <div align="center">
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://facebook.com/YOUR_FACEBOOK">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 <a href="mailto:YOUR_EMAIL@example.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://twitter.com/YOUR_TWITTER">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 <a href="https://YOUR_PORTFOLIO.com">
-  <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=black" />
 </a>
 
 </div>
@@ -233,7 +186,6 @@ const jihad = {
 <div align="center">
 
 > ### *"First, solve the problem. Then, write the code."*
->
 > — John Johnson
 
 <br/>
